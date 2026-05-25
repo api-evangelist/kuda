@@ -1,0 +1,96 @@
+aid: kuda
+name: Kuda
+description: >-
+  Kuda is a Nigerian digital-first retail bank — branded "the money app for
+  Africans" and "the bank of the free" — founded in 2019 by Babs Ogundeyi
+  and Musty Mustapha and headquartered in Lagos, Nigeria with operations in
+  the United Kingdom. Kuda's Nigerian entity, Kuda Microfinance Bank, holds
+  a national microfinance bank license from the Central Bank of Nigeria
+  (CBN), and Kuda EMI Limited operates as an FCA-authorised electronic
+  money institution in the UK. Kuda offers retail banking accounts with
+  zero or low fees, debit cards, instant transfers, bill payments, savings
+  ("Spend+Save"), investments, overdrafts, and personal loans through its
+  iOS, Android, and web apps, plus a Business banking suite covering
+  expense accounts and cards, payroll, invoicing, softPOS and physical POS
+  terminals, business loans, and CAC business registration. Kuda also
+  exposes an Open API ("Kuda Open API") aimed at fintechs, marketplaces,
+  and businesses that want to embed Nigerian banking primitives —
+  virtual accounts, name enquiry, intra- and inter-bank transfers,
+  balance inquiry, transaction history, bill payments, and disbursements
+  — directly into their own products, with sandbox and live environments,
+  RSA-encrypted request payloads, and client libraries for Node.js, PHP,
+  C#, Rust, and Kotlin hosted under the kudabank GitHub organization.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Banking
+  - Neobank
+  - Digital Bank
+  - Retail Banking
+  - Business Banking
+  - Open Banking
+  - Payments
+  - Transfers
+  - Virtual Accounts
+  - Disbursements
+  - Bill Payments
+  - Savings
+  - Cards
+  - POS
+  - Lending
+  - Fintech
+  - Nigeria
+  - Africa
+  - CBN Licensed
+  - Microfinance Bank
+url: https://raw.githubusercontent.com/api-evangelist/kuda/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://kuda.com
+  - type: Personal
+    url: https://kuda.com/en-ng/personal/
+  - type: Business
+    url: https://kuda.com/en-ng/business/
+  - type: OpenAPI
+    url: https://kuda.com/en-ng/business/open-api/
+  - type: DeveloperPortal
+    url: https://developer.kuda.com/
+  - type: Documentation
+    url: https://kudabank.gitbook.io/kudabank/
+  - type: GitHub
+    url: https://github.com/kudabank
+  - type: About
+    url: https://kuda.com/about/
+  - type: Careers
+    url: https://kuda.com/careers/
+  - type: Blog
+    url: https://kuda.com/blog/
+  - type: Press
+    url: https://kuda.com/press/
+  - type: Help
+    url: https://help.kuda.com
+  - type: Security
+    url: https://kuda.com/security/
+  - type: Contact
+    url: https://kuda.com/contact/
+  - type: FAQ
+    url: https://kuda.com/en-ng/legal/faq/openApi/
+  - type: Twitter
+    url: https://twitter.com/joinkuda
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/kudabank
+  - type: Facebook
+    url: https://www.facebook.com/joinkuda
+  - type: Instagram
+    url: https://www.instagram.com/joinkuda
+  - type: YouTube
+    url: https://www.youtube.com/@joinkuda
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
